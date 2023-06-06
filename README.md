@@ -1,1 +1,1 @@
-# productdev_proj
+# Cosmetic Product Development (ML)
